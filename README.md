@@ -1,1 +1,3 @@
 # tzpromo
+
+YAK JANGAN BACOT
