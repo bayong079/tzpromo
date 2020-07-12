@@ -1,7 +1,7 @@
 <?php
 echo "##by: Tra\n";
 Awal:
-	unlink("cookie_tzpromo.txt");
+	@unlink("cookie_tzpromo.txt");
 	$ref = @file_get_contents("ref_tzpromo.txt");
 	if(file_exists("ref_tzpromo.txt")){
 		echo "Use Old Referral?(Y/n)	";
