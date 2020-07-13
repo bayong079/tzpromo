@@ -41,7 +41,7 @@ function addRef($no){
 	$headers[] = 'Origin: https://membership.usetada.com';
 	$headers[] = 'User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1';
 	$headers[] = 'Connection: close';
-	$headers[] = 'Referer: https://membership.usetada.com/referral/jonat17vzwe';
+	$headers[] = 'Referer:https://membership.usetada.com/hhuuj9dnzl';
 	$headers[] = 'Cookie: _ga=GA1.1.323137868.1594570264; _ga_B6DQELPYPE=GS1.1.1594570264.1.0.1594570264.0';
 	curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
 	curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, FALSE);
